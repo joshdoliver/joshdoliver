@@ -9,7 +9,7 @@
     - React JS
     - Fast API / Python
 - 🚀 I'm currently working on:
-    - Customer Relations Managment Application for a resturaunt
+    - Customer Relations Managment Application for a restaurant
 
 
 <!---
